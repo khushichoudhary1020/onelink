@@ -78,18 +78,18 @@ const data = ref({
 
 const prefillDemoData = () => {
   data.value = {
-    n: "John Snow",
-    d: "I’m John Snow, the king in the north. I know Nothing.",
+    n: "Demo Khushi",
+    d: "I’m Khushi Choudhary and I know Nothing.",
     i: "https://i.insider.com/56743fad72f2c12a008b6cc0",
-    f: "https://www.facebook.com/john_snow",
+    f: "https://www.facebook.com/kushimanent",
     t: "https://twitter.com/john_snow",
-    ig: "https://www.instagram.com/john_snow",
-    e: "mail@john_snow.cc",
-    gh: "https://github.com/john_snow",
-    tg: "https://t.me/john_snow",
-    w: "+918888888888",
-    y: "https://youtube.com/@john_snow",
-    l: "https://linkedin.com/john_snow",
+    ig: "https://www.instagram.com/kushimanent",
+    e: "khushichoudhary1020@gmail.com",
+    gh: "https://github.com/khushichoudhary1020",
+    tg: "https://t.me/khushichoudhary1020",
+    w: "+910000000000",
+    y: "https://youtube.com/@khushichoudhary1020",
+    l: "https://www.linkedin.com/in/khushi-choudhary-a6b781226/",
     ls: [
       {
         l: "My Website",
