@@ -80,7 +80,7 @@ const prefillDemoData = () => {
   data.value = {
     n: "Demo Khushi",
     d: "I’m Khushi Choudhary and I know Nothing.",
-    i: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-wewak&psig=AOvVaw21VzhHsDq1tUBJOIboCAqD&ust=1710073960402000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJj02omY54QDFQAAAAAdAAAAABAE",
+    i: "https://i.insider.com/56743fad72f2c12a008b6cc0",
     f: "https://www.facebook.com/kushimanent",
     t: "https://twitter.com/priyemporary2",
     ig: "https://www.instagram.com/kushimanent",
