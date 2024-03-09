@@ -123,7 +123,7 @@ const prefillDemoData = () => {
 const publish = () => {
   const url = `${window.location.origin}/1?data=${encodeData(data.value)}`;
   navigator.clipboard.writeText(url).then(() => {
-    alert("Link copied to clipboard");
+    alert("Khushi's OneLink's link copied to clipboard");
   });
 };
 </script>
