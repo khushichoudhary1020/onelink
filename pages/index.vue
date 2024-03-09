@@ -82,7 +82,7 @@ const prefillDemoData = () => {
     d: "I’m Khushi Choudhary and I know Nothing.",
     i: "https://i.insider.com/56743fad72f2c12a008b6cc0",
     f: "https://www.facebook.com/kushimanent",
-    t: "https://twitter.com/john_snow",
+    t: "https://twitter.com/priyemporary2",
     ig: "https://www.instagram.com/kushimanent",
     e: "khushichoudhary1020@gmail.com",
     gh: "https://github.com/khushichoudhary1020",
